@@ -1,0 +1,7 @@
+praw    # Python Reddit API Wrapper
+pandas  # Data manipulation
+torch  # PyTorch for deep learning
+transformers  # Hugging Face Transformers for NLP
+openai  # OpenAI API client
+prawcore  # PRAW core library for API interaction
+python-dotenv # For loading environment variables
